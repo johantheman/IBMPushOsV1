@@ -1,0 +1,9 @@
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\bin\Debug\netstandard2.0\IBMPushOsV1.deps.json
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\bin\Debug\netstandard2.0\IBMPushOsV1.dll
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\bin\Debug\netstandard2.0\IBMPushOsV1.pdb
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\obj\Debug\netstandard2.0\IBMPushOsV1.csprojAssemblyReference.cache
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\obj\Debug\netstandard2.0\IBMPushOsV1.csproj.CoreCompileInputs.cache
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\obj\Debug\netstandard2.0\IBMPushOsV1.AssemblyInfoInputs.cache
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\obj\Debug\netstandard2.0\IBMPushOsV1.AssemblyInfo.cs
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\obj\Debug\netstandard2.0\IBMPushOsV1.dll
+C:\Users\Johan\source\repos\IBMPushOsV1\app\IBMPushOsV1\IBMPushOsV1\IBMPushOsV1\obj\Debug\netstandard2.0\IBMPushOsV1.pdb
